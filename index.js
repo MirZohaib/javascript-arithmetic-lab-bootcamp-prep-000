@@ -1,2 +1,2 @@
 
-psrseInt('2',10) // 2
+function math(add, sub, mul, div, )
